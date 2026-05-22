@@ -1,0 +1,48 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+.section_hero{
+    width: 414px;
+    height: 896px;
+    border-radius: 50px;
+    background-color: #FF4B3A;
+}
+.header{
+    padding: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    color: #fff;
+    margin: -130px 0;
+    line-height: 65px;
+}
+.contsiner_hero{
+    display: flex;
+    justify-content: center;
+    padding: 50px 0 0 0;
+}
+.footer_hero{
+    display: flex;
+    justify-content: center;
+   
+}
+.btn_footer{
+    width: 314px;
+    height: 70px;
+    display: block;
+    justify-content: center;
+    color: #FF460A;
+    border-radius: 30px;
+    border: none;
+    text-align: center;
+    font-size: 25px;
+   
+}
+a{
+    text-decoration: none;
+}
